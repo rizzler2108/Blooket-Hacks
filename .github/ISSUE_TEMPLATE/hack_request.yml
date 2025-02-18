@@ -30,7 +30,7 @@ body:
     attributes:
       label: Requested function
       description: Describe what you want to see happening?
-      placeholder: That I have infinite XP
+      placeholder: That I have infinite coins
     validations:
       required: true
   - type: textarea
